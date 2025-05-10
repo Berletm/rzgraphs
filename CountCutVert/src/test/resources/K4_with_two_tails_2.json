@@ -1,0 +1,115 @@
+{
+  "edgeCount": 8,
+  "edgeList": [
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 10019,
+      "target": 9627,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 10019,
+      "target": 10602,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 10019,
+      "target": 10307,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 10602,
+      "target": 78869,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 10307,
+      "target": 78869,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 16704,
+      "target": 10307,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 78869,
+      "target": 10019,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 10307,
+      "target": 10602,
+      "weight": 0
+    }
+  ],
+  "id": "e077d806-ad4a-4106-9338-4426bb561916",
+  "isDirect": false,
+  "isNamed": false,
+  "vertexCount": 6,
+  "vertexList": [
+    {
+      "color": "GREEN",
+      "id": 9627,
+      "label": "1",
+      "weight": 0,
+      "xCoordinate": 360,
+      "yCoordinate": -174
+    },
+    {
+      "color": "RED",
+      "id": 10019,
+      "label": "2",
+      "weight": 0,
+      "xCoordinate": 359,
+      "yCoordinate": 11
+    },
+    {
+      "color": "RED",
+      "id": 10307,
+      "label": "3",
+      "weight": 0,
+      "xCoordinate": 358,
+      "yCoordinate": 194
+    },
+    {
+      "color": "GREEN",
+      "id": 10602,
+      "label": "4",
+      "weight": 0,
+      "xCoordinate": 558,
+      "yCoordinate": 12
+    },
+    {
+      "color": "GREEN",
+      "id": 78869,
+      "label": "5",
+      "weight": 0,
+      "xCoordinate": 559,
+      "yCoordinate": 194
+    },
+    {
+      "color": "GREEN",
+      "id": 16704,
+      "label": "6",
+      "weight": 0,
+      "xCoordinate": 357,
+      "yCoordinate": 389
+    }
+  ]
+}
