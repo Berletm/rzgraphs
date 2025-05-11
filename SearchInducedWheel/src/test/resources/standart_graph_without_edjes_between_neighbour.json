@@ -1,0 +1,125 @@
+{
+  "edgeCount": 6,
+  "edgeList": [
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 44575,
+      "target": 56308,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 58817,
+      "target": 44575,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 44575,
+      "target": 28542,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 44575,
+      "target": 30991,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 36308,
+      "target": 44575,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 59828,
+      "target": 44575,
+      "weight": 0
+    }
+  ],
+  "id": "5af8460a-f5c9-4f1f-acab-9e3a10f2dd14",
+  "isDirect": false,
+  "isNamed": false,
+  "vertexCount": 9,
+  "vertexList": [
+    {
+      "color": "GRAY",
+      "id": 28542,
+      "label": "1",
+      "weight": 0,
+      "xCoordinate": 112,
+      "yCoordinate": 166
+    },
+    {
+      "color": "GRAY",
+      "id": 30991,
+      "label": "2",
+      "weight": 0,
+      "xCoordinate": 448,
+      "yCoordinate": 167
+    },
+    {
+      "color": "GRAY",
+      "id": 36308,
+      "label": "3",
+      "weight": 0,
+      "xCoordinate": 862,
+      "yCoordinate": 171
+    },
+    {
+      "color": "GRAY",
+      "id": 41347,
+      "label": "4",
+      "weight": 0,
+      "xCoordinate": 126,
+      "yCoordinate": 413
+    },
+    {
+      "color": "GRAY",
+      "id": 44575,
+      "label": "5",
+      "weight": 0,
+      "xCoordinate": 452,
+      "yCoordinate": 407
+    },
+    {
+      "color": "GRAY",
+      "id": 46961,
+      "label": "6",
+      "weight": 0,
+      "xCoordinate": 850,
+      "yCoordinate": 405
+    },
+    {
+      "color": "GRAY",
+      "id": 56308,
+      "label": "7",
+      "weight": 0,
+      "xCoordinate": 144,
+      "yCoordinate": 625
+    },
+    {
+      "color": "GRAY",
+      "id": 58817,
+      "label": "8",
+      "weight": 0,
+      "xCoordinate": 454,
+      "yCoordinate": 637
+    },
+    {
+      "color": "GRAY",
+      "id": 59828,
+      "label": "9",
+      "weight": 0,
+      "xCoordinate": 854,
+      "yCoordinate": 619
+    }
+  ]
+}
