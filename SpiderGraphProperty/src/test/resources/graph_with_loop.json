@@ -1,0 +1,213 @@
+{
+  "edgeCount": 14,
+  "edgeList": [
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 1,
+      "target": 7,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 1,
+      "target": 2,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 1,
+      "target": 3,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 1,
+      "target": 4,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 1,
+      "target": 5,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 1,
+      "target": 1,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 1,
+      "target": 6,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 8,
+      "target": 7,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 9,
+      "target": 2,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 10,
+      "target": 3,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 4,
+      "target": 11,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 5,
+      "target": 12,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 6,
+      "target": 13,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 9,
+      "target": 10,
+      "weight": 0
+    }
+  ],
+  "id": "c8e5a761-1ad1-43f8-a27d-e3408ffec108",
+  "isDirect": false,
+  "isNamed": false,
+  "vertexCount": 13,
+  "vertexList": [
+    {
+      "color": "GRAY",
+      "id": 1,
+      "label": "1",
+      "weight": 0,
+      "xCoordinate": 692,
+      "yCoordinate": 420
+    },
+    {
+      "color": "GRAY",
+      "id": 2,
+      "label": "2",
+      "weight": 0,
+      "xCoordinate": 910,
+      "yCoordinate": 418
+    },
+    {
+      "color": "GRAY",
+      "id": 3,
+      "label": "3",
+      "weight": 0,
+      "xCoordinate": 803,
+      "yCoordinate": 195
+    },
+    {
+      "color": "GRAY",
+      "id": 4,
+      "label": "4",
+      "weight": 0,
+      "xCoordinate": 591,
+      "yCoordinate": 197
+    },
+    {
+      "color": "GRAY",
+      "id": 5,
+      "label": "5",
+      "weight": 0,
+      "xCoordinate": 474,
+      "yCoordinate": 423
+    },
+    {
+      "color": "GRAY",
+      "id": 6,
+      "label": "6",
+      "weight": 0,
+      "xCoordinate": 610,
+      "yCoordinate": 647
+    },
+    {
+      "color": "GRAY",
+      "id": 7,
+      "label": "7",
+      "weight": 0,
+      "xCoordinate": 800,
+      "yCoordinate": 648
+    },
+    {
+      "color": "GRAY",
+      "id": 8,
+      "label": "8",
+      "weight": 0,
+      "xCoordinate": 902,
+      "yCoordinate": 770
+    },
+    {
+      "color": "GRAY",
+      "id": 9,
+      "label": "9",
+      "weight": 0,
+      "xCoordinate": 1079,
+      "yCoordinate": 413
+    },
+    {
+      "color": "GRAY",
+      "id": 10,
+      "label": "10",
+      "weight": 0,
+      "xCoordinate": 889,
+      "yCoordinate": 79
+    },
+    {
+      "color": "GRAY",
+      "id": 11,
+      "label": "11",
+      "weight": 0,
+      "xCoordinate": 502,
+      "yCoordinate": 69
+    },
+    {
+      "color": "GRAY",
+      "id": 12,
+      "label": "12",
+      "weight": 0,
+      "xCoordinate": 310,
+      "yCoordinate": 438
+    },
+    {
+      "color": "GRAY",
+      "id": 13,
+      "label": "13",
+      "weight": 0,
+      "xCoordinate": 570,
+      "yCoordinate": 790
+    }
+  ]
+}
