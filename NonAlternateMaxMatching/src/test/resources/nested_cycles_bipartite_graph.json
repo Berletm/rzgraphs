@@ -1,0 +1,131 @@
+{
+  "edgeCount": 8,
+  "edgeList": [
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 4,
+      "target": 1,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 1,
+      "target": 2,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 2,
+      "target": 3,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 3,
+      "target": 6,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 6,
+      "target": 5,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 5,
+      "target": 8,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 8,
+      "target": 4,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 8,
+      "target": 7,
+      "weight": 0
+    }
+  ],
+  "id": "2f53fda1-597c-44a6-b38b-f120deb8da61",
+  "isDirect": false,
+  "isNamed": false,
+  "vertexCount": 8,
+  "vertexList": [
+    {
+      "color": "GRAY",
+      "id": 1,
+      "label": "1",
+      "weight": 0,
+      "xCoordinate": 373,
+      "yCoordinate": -79
+    },
+    {
+      "color": "GRAY",
+      "id": 2,
+      "label": "2",
+      "weight": 0,
+      "xCoordinate": 786,
+      "yCoordinate": -85
+    },
+    {
+      "color": "GRAY",
+      "id": 3,
+      "label": "3",
+      "weight": 0,
+      "xCoordinate": 908,
+      "yCoordinate": 195
+    },
+    {
+      "color": "GRAY",
+      "id": 4,
+      "label": "4",
+      "weight": 0,
+      "xCoordinate": 208,
+      "yCoordinate": 369
+    },
+    {
+      "color": "GRAY",
+      "id": 5,
+      "label": "5",
+      "weight": 0,
+      "xCoordinate": 850,
+      "yCoordinate": 899
+    },
+    {
+      "color": "GRAY",
+      "id": 6,
+      "label": "6",
+      "weight": 0,
+      "xCoordinate": 940,
+      "yCoordinate": 523
+    },
+    {
+      "color": "GRAY",
+      "id": 7,
+      "label": "7",
+      "weight": 0,
+      "xCoordinate": 440,
+      "yCoordinate": 1247
+    },
+    {
+      "color": "GRAY",
+      "id": 8,
+      "label": "8",
+      "weight": 0,
+      "xCoordinate": 454,
+      "yCoordinate": 915
+    }
+  ]
+}
