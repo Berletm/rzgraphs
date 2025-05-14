@@ -1,0 +1,154 @@
+{
+  "edgeCount": 9,
+  "edgeList": [
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 33882,
+      "target": 31300,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 37752,
+      "target": 33882,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 40925,
+      "target": 37752,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 43479,
+      "target": 40925,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 52780,
+      "target": 43479,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 57700,
+      "target": 52780,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 61894,
+      "target": 57700,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 65611,
+      "target": 61894,
+      "weight": 0
+    },
+    {
+      "color": "GRAY",
+      "label": "",
+      "source": 70369,
+      "target": 65611,
+      "weight": 0
+    }
+  ],
+  "id": "d5e93689-2b0c-4934-b8ee-23c1c1392ddd",
+  "isDirect": false,
+  "isNamed": false,
+  "vertexCount": 10,
+  "vertexList": [
+    {
+      "color": "GRAY",
+      "id": 31300,
+      "label": "1",
+      "weight": 0,
+      "xCoordinate": 107,
+      "yCoordinate": 124
+    },
+    {
+      "color": "GRAY",
+      "id": 33882,
+      "label": "2",
+      "weight": 0,
+      "xCoordinate": 301,
+      "yCoordinate": 220
+    },
+    {
+      "color": "GRAY",
+      "id": 37752,
+      "label": "3",
+      "weight": 0,
+      "xCoordinate": 467,
+      "yCoordinate": 290
+    },
+    {
+      "color": "GRAY",
+      "id": 40925,
+      "label": "4",
+      "weight": 0,
+      "xCoordinate": 627,
+      "yCoordinate": 346
+    },
+    {
+      "color": "GRAY",
+      "id": 43479,
+      "label": "5",
+      "weight": 0,
+      "xCoordinate": 811,
+      "yCoordinate": 402
+    },
+    {
+      "color": "GRAY",
+      "id": 52780,
+      "label": "6",
+      "weight": 0,
+      "xCoordinate": 967,
+      "yCoordinate": 446
+    },
+    {
+      "color": "GRAY",
+      "id": 57700,
+      "label": "7",
+      "weight": 0,
+      "xCoordinate": 1131,
+      "yCoordinate": 488
+    },
+    {
+      "color": "GRAY",
+      "id": 61894,
+      "label": "8",
+      "weight": 0,
+      "xCoordinate": 1289,
+      "yCoordinate": 530
+    },
+    {
+      "color": "GRAY",
+      "id": 65611,
+      "label": "9",
+      "weight": 0,
+      "xCoordinate": 1427,
+      "yCoordinate": 566
+    },
+    {
+      "color": "GRAY",
+      "id": 70369,
+      "label": "10",
+      "weight": 0,
+      "xCoordinate": 1591,
+      "yCoordinate": 626
+    }
+  ]
+}
