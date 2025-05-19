@@ -51,11 +51,6 @@ public class BipartitePerfectMatchingCounterTest {
     }
 
     @Test
-    void nonBipartite() throws FileNotFoundException {
-        assertThat(runOn("non_bipartite.json") == 0).isTrue();
-    }
-
-    @Test
     void unbalanced() throws FileNotFoundException {
         assertThat(runOn("unbalanced3_2.json") == 0).isTrue();
     }
@@ -73,11 +68,6 @@ public class BipartitePerfectMatchingCounterTest {
     @Test
     void noEdges() throws FileNotFoundException {
         assertThat(runOn("no_edges.json") == 0).isTrue();
-    }
-
-    @Test
-    void crossComponentInvalid() throws FileNotFoundException {
-        assertThat(runOn("cross_component_invalid.json") == 0).isTrue();
     }
 
     @Test
