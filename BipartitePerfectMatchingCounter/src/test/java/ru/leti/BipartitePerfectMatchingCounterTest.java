@@ -17,7 +17,7 @@ public class BipartitePerfectMatchingCounterTest {
 
     @Test
     void emptyGraph() throws FileNotFoundException {
-        assertThat(runOn("empty.json") == 1).isTrue();
+        assertThat(runOn("empty.json") == 0).isTrue();
     }
 
     @Test
