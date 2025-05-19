@@ -89,4 +89,9 @@ public class BipartitePerfectMatchingCounterTest {
     void pathWithExtraLeaf() throws FileNotFoundException {
         assertThat(runOn("path_with_extra_leaf.json") == 0).isTrue();
     }
+
+    @Test
+    void oneUnconnectedVertex() throws FileNotFoundException {
+        assertThat(runOn("one_unconnected_vertex.json")).isEqualTo(0);
+    }
 }
