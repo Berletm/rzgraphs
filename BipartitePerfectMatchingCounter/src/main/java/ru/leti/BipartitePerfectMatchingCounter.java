@@ -8,6 +8,9 @@ public class BipartitePerfectMatchingCounter implements GraphCharacteristic {
 
     @Override
     public int run(Graph graph) {
+        if (graph.getVertexList().isEmpty() && graph.getEdgeList().isEmpty()) {
+            return 0;
+        }
         List<List<Vertex>> bipartition = getBipartition(graph);
         if (bipartition == null) {
             return 0;
